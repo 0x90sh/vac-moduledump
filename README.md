@@ -1,9 +1,11 @@
 # VAC Module Dumper
 
 ![Console Preview](module_dumper.png)
+
 *Console output demo.*
 
 ![Assembly View](loadvacmodule_dissassembly.png)
+
 *Screenshot of the patched assembly (offset changed from `28h` to `24h`).*
 
 ---
